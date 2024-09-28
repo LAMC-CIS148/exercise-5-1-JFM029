@@ -34,10 +34,7 @@ padding-left: 30px;
 }
 header{
 border-bottom: 3px solid #931420;
-padding-top: 1.5em;
-padding-right: 0em;
-padding-left: 0em;
-padding-bottom: 2em;
+padding: 1.5em 0 2em 0;
 background-image: linear-gradient( 
 	30deg, #f6bb73 0%, #f6bb73 30%, white 50%, #f6bb73 80%, #f6bb73 100%);
 }
