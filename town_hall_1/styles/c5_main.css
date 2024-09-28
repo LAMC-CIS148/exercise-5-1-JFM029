@@ -78,9 +78,11 @@ padding-bottom: .35em;
 }
 
 /* the styles for the footer */
+footer{
+background-color: #931420;
+font-color: white;
+}
 footer p {
 text-align: center;
 padding: 1em 0;
-background-color: #931420;
-font-color: white;
 }
