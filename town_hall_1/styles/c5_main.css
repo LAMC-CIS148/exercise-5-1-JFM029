@@ -36,8 +36,7 @@ header img {
 float: left;
 }
 header{
-	border-bottom: 
-	color:
+	border-bottom: 3px solid #931420;
 }
 .shadow {
 text-shadow: 2px 2px 2px var(--global-color-1);
