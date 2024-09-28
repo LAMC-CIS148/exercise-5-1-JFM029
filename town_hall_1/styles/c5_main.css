@@ -29,8 +29,7 @@ font-style: italic;
 }
 header img {
 float: left;
-padding-right: 30px;
-padding-left: 30px;
+padding: 0 30px;
 }
 header{
 border-bottom: 3px solid #931420;
