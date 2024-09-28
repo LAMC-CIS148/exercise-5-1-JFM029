@@ -85,10 +85,10 @@ padding-bottom: .35em;
 /* the styles for the footer */
 footer{
 background-color: #931420;
-font-color: white;
 }
 footer p {
+font-color: white;
 text-align: center;
-padding: 0px;
+padding: 5px;
 margin: 0px;
 }
